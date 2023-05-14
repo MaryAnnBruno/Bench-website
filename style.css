@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Century Gothic;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+
+/*Homepage*/
+
+.dropdown li a{
+	color: white;
+}
+
+/*career*/
+.career h1 span{
+	color:#953553;
+	margin-right:15 ;
+	font-family: Century Gothic;
+}
+
+/*Testimonial*/
+.Testimonial h1 span{
+	color:#ff0000;
+	margin-right:15 ;
+	font-family: Century Gothic;
+	font-size: 60px;
+}
+.Testimonial p{
+	font-family: Century Gothic;
+	font-size: 20px;
+}
+
+/*Product*/
+.Product h1 span{
+	color:#880808;
+	margin-right:15 ;
+	font-family: Century Gothic;
+}
+.Product h3{
+		color:#EE4B2B;
+		margin-right:15 ;
+		font-family: Century Gothic;
+
+}
+.Product p span{
+		color:#FF5733;
+		margin-right:15 ;
+		font-family: Century Gothic;
+}
+
+/*About*/
+.About h1 span{
+	color:#880808;
+	margin-right:15 ;
+	font-family: Century Gothic;
+	font-size: 60px;
+}
+.About p{
+	font-family: Century Gothic;
+	font-size: 20px;
+}
+/*Blog*/
+.Blog h1{
+	color:#ff0000;
+	margin-right:15 ;
+	font-family: Century Gothic;
+	font-size: 30px;
+}
+.Blog p{
+	font-family: Century Gothic;
+	font-size: 16px;
+}
